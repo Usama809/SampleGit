@@ -1,0 +1,6 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\45-WhyEnums\bin\Debug\45-WhyEnums.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\45-WhyEnums\obj\Debug\45-WhyEnums.csprojResolveAssemblyReference.cache
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\45-WhyEnums\bin\Debug\45-WhyEnums.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\45-WhyEnums\bin\Debug\45-WhyEnums.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\45-WhyEnums\obj\Debug\45-WhyEnums.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\45-WhyEnums\obj\Debug\45-WhyEnums.pdb
