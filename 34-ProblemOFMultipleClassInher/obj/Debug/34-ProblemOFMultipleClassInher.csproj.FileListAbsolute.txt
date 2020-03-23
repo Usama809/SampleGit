@@ -1,0 +1,2 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\34-ProblemOFMultipleClassInher\bin\Debug\34-ProblemOFMultipleClassInher.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\34-ProblemOFMultipleClassInher\obj\Debug\34-ProblemOFMultipleClassInher.csprojResolveAssemblyReference.cache
