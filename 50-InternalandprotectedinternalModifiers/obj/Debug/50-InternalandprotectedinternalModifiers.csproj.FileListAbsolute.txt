@@ -1,0 +1,1 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\50-InternalandprotectedinternalModifiers\bin\Debug\50-InternalandprotectedinternalModifiers.exe.config
