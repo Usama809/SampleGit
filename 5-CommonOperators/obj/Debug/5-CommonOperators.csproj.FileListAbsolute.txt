@@ -1,0 +1,6 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\5-CommonOperators\bin\Debug\5-CommonOperators.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\5-CommonOperators\bin\Debug\5-CommonOperators.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\5-CommonOperators\bin\Debug\5-CommonOperators.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\5-CommonOperators\obj\Debug\5-CommonOperators.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\5-CommonOperators\obj\Debug\5-CommonOperators.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\5-CommonOperators\obj\Debug\5-CommonOperators.csprojResolveAssemblyReference.cache
