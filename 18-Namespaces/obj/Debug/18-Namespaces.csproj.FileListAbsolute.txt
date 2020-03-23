@@ -1,0 +1,6 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\18-Namespaces\bin\Debug\18-Namespaces.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\18-Namespaces\bin\Debug\18-Namespaces.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\18-Namespaces\bin\Debug\18-Namespaces.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\18-Namespaces\obj\Debug\18-Namespaces.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\18-Namespaces\obj\Debug\18-Namespaces.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\18-Namespaces\obj\Debug\18-Namespaces.csprojResolveAssemblyReference.cache
