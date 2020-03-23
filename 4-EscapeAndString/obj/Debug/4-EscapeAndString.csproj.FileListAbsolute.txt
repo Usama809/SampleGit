@@ -1,0 +1,6 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\4-EscapeAndString\bin\Debug\4-EscapeAndString.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\4-EscapeAndString\bin\Debug\4-EscapeAndString.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\4-EscapeAndString\bin\Debug\4-EscapeAndString.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\4-EscapeAndString\obj\Debug\4-EscapeAndString.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\4-EscapeAndString\obj\Debug\4-EscapeAndString.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\4-EscapeAndString\obj\Debug\4-EscapeAndString.csprojResolveAssemblyReference.cache
