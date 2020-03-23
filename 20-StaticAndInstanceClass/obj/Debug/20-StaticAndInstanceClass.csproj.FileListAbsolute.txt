@@ -1,0 +1,6 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\20-StaticAndInstanceClass\bin\Debug\20-StaticAndInstanceClass.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\20-StaticAndInstanceClass\bin\Debug\20-StaticAndInstanceClass.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\20-StaticAndInstanceClass\bin\Debug\20-StaticAndInstanceClass.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\20-StaticAndInstanceClass\obj\Debug\20-StaticAndInstanceClass.csprojResolveAssemblyReference.cache
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\20-StaticAndInstanceClass\obj\Debug\20-StaticAndInstanceClass.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\20-StaticAndInstanceClass\obj\Debug\20-StaticAndInstanceClass.pdb
