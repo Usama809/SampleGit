@@ -1,0 +1,6 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\47-EnumExamples\bin\Debug\47-EnumExamples.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\47-EnumExamples\bin\Debug\47-EnumExamples.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\47-EnumExamples\bin\Debug\47-EnumExamples.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\47-EnumExamples\obj\Debug\47-EnumExamples.csprojResolveAssemblyReference.cache
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\47-EnumExamples\obj\Debug\47-EnumExamples.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\47-EnumExamples\obj\Debug\47-EnumExamples.pdb
