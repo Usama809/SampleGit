@@ -1,0 +1,6 @@
+c:\users\xami rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\IntroductionTo Csharp\bin\Debug\IntroductionTo Csharp.exe.config
+c:\users\xami rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\IntroductionTo Csharp\bin\Debug\IntroductionTo Csharp.exe
+c:\users\xami rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\IntroductionTo Csharp\bin\Debug\IntroductionTo Csharp.pdb
+c:\users\xami rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\IntroductionTo Csharp\obj\Debug\IntroductionTo Csharp.exe
+c:\users\xami rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\IntroductionTo Csharp\obj\Debug\IntroductionTo Csharp.pdb
+c:\users\xami rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\IntroductionTo Csharp\obj\Debug\IntroductionTo Csharp.csprojResolveAssemblyReference.cache
