@@ -1,0 +1,6 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\46-TutorialEnums\bin\Debug\46-TutorialEnums.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\46-TutorialEnums\bin\Debug\46-TutorialEnums.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\46-TutorialEnums\bin\Debug\46-TutorialEnums.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\46-TutorialEnums\obj\Debug\46-TutorialEnums.csprojResolveAssemblyReference.cache
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\46-TutorialEnums\obj\Debug\46-TutorialEnums.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\46-TutorialEnums\obj\Debug\46-TutorialEnums.pdb
