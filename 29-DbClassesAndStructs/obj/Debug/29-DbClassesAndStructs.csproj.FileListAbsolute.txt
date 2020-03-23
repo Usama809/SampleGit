@@ -1,0 +1,6 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\29-DbClassesAndStructs\bin\Debug\29-DbClassesAndStructs.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\29-DbClassesAndStructs\obj\Debug\29-DbClassesAndStructs.csprojResolveAssemblyReference.cache
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\29-DbClassesAndStructs\bin\Debug\29-DbClassesAndStructs.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\29-DbClassesAndStructs\bin\Debug\29-DbClassesAndStructs.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\29-DbClassesAndStructs\obj\Debug\29-DbClassesAndStructs.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\29-DbClassesAndStructs\obj\Debug\29-DbClassesAndStructs.pdb
