@@ -1,0 +1,6 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\44-ExceptionHandlingAbuseSolved\bin\Debug\44-ExceptionHandlingAbuseSolved.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\44-ExceptionHandlingAbuseSolved\bin\Debug\44-ExceptionHandlingAbuseSolved.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\44-ExceptionHandlingAbuseSolved\bin\Debug\44-ExceptionHandlingAbuseSolved.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\44-ExceptionHandlingAbuseSolved\obj\Debug\44-ExceptionHandlingAbuseSolved.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\44-ExceptionHandlingAbuseSolved\obj\Debug\44-ExceptionHandlingAbuseSolved.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\44-ExceptionHandlingAbuseSolved\obj\Debug\44-ExceptionHandlingAbuseSolved.csprojResolveAssemblyReference.cache
