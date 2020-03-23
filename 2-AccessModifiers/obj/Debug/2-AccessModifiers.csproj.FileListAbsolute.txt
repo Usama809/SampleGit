@@ -1,0 +1,5 @@
+c:\users\xami rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\2-AccessModifiers\bin\Debug\2-AccessModifiers.exe.config
+c:\users\xami rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\2-AccessModifiers\bin\Debug\2-AccessModifiers.exe
+c:\users\xami rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\2-AccessModifiers\bin\Debug\2-AccessModifiers.pdb
+c:\users\xami rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\2-AccessModifiers\obj\Debug\2-AccessModifiers.exe
+c:\users\xami rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\2-AccessModifiers\obj\Debug\2-AccessModifiers.pdb
