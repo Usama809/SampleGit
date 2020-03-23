@@ -1,0 +1,6 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\27-ReadAndWritePropertie\bin\Debug\27-ReadAndWritePropertie.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\27-ReadAndWritePropertie\obj\Debug\27-ReadAndWritePropertie.csprojResolveAssemblyReference.cache
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\27-ReadAndWritePropertie\bin\Debug\27-ReadAndWritePropertie.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\27-ReadAndWritePropertie\bin\Debug\27-ReadAndWritePropertie.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\27-ReadAndWritePropertie\obj\Debug\27-ReadAndWritePropertie.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\27-ReadAndWritePropertie\obj\Debug\27-ReadAndWritePropertie.pdb
