@@ -1,0 +1,5 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\13-LoopsWhileLoop\bin\Debug\13-LoopsWhileLoop.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\13-LoopsWhileLoop\bin\Debug\13-LoopsWhileLoop.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\13-LoopsWhileLoop\bin\Debug\13-LoopsWhileLoop.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\13-LoopsWhileLoop\obj\Debug\13-LoopsWhileLoop.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\13-LoopsWhileLoop\obj\Debug\13-LoopsWhileLoop.pdb
