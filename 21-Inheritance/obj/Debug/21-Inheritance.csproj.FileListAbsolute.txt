@@ -1,0 +1,6 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\21-Inheritance\bin\Debug\21-Inheritance.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\21-Inheritance\bin\Debug\21-Inheritance.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\21-Inheritance\bin\Debug\21-Inheritance.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\21-Inheritance\obj\Debug\21-Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\21-Inheritance\obj\Debug\21-Inheritance.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\21-Inheritance\obj\Debug\21-Inheritance.pdb
