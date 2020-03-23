@@ -1,0 +1,6 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\37-DelegatesUsageInCsharp\bin\Debug\37-DelegatesUsageInCsharp.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\37-DelegatesUsageInCsharp\bin\Debug\37-DelegatesUsageInCsharp.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\37-DelegatesUsageInCsharp\bin\Debug\37-DelegatesUsageInCsharp.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\37-DelegatesUsageInCsharp\obj\Debug\37-DelegatesUsageInCsharp.csprojResolveAssemblyReference.cache
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\37-DelegatesUsageInCsharp\obj\Debug\37-DelegatesUsageInCsharp.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\37-DelegatesUsageInCsharp\obj\Debug\37-DelegatesUsageInCsharp.pdb
