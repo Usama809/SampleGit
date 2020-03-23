@@ -1,0 +1,5 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\9-ComentsInCsharp\bin\Debug\9-ComentsInCsharp.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\9-ComentsInCsharp\bin\Debug\9-ComentsInCsharp.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\9-ComentsInCsharp\bin\Debug\9-ComentsInCsharp.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\9-ComentsInCsharp\obj\Debug\9-ComentsInCsharp.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\9-ComentsInCsharp\obj\Debug\9-ComentsInCsharp.pdb
