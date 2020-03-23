@@ -1,0 +1,2 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\48-DBTypeAndTypeMembers\bin\Debug\48-DBTypeAndTypeMembers.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\48-DBTypeAndTypeMembers\obj\Debug\48-DBTypeAndTypeMembers.csprojResolveAssemblyReference.cache
