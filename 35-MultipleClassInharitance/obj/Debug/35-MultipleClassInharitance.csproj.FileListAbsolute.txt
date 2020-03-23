@@ -1,0 +1,5 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\35-MultipleClassInharitance\bin\Debug\35-MultipleClassInharitance.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\35-MultipleClassInharitance\bin\Debug\35-MultipleClassInharitance.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\35-MultipleClassInharitance\bin\Debug\35-MultipleClassInharitance.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\35-MultipleClassInharitance\obj\Debug\35-MultipleClassInharitance.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\35-MultipleClassInharitance\obj\Debug\35-MultipleClassInharitance.pdb
