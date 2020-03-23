@@ -1,0 +1,5 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\30-BasicInterfaces\bin\Debug\30-BasicInterfaces.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\30-BasicInterfaces\bin\Debug\30-BasicInterfaces.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\30-BasicInterfaces\bin\Debug\30-BasicInterfaces.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\30-BasicInterfaces\obj\Debug\30-BasicInterfaces.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\30-BasicInterfaces\obj\Debug\30-BasicInterfaces.pdb
