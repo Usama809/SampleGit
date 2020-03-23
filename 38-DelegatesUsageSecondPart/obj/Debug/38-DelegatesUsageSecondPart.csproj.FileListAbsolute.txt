@@ -1,0 +1,6 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\38-DelegatesUsageSecondPart\bin\Debug\38-DelegatesUsageSecondPart.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\38-DelegatesUsageSecondPart\bin\Debug\38-DelegatesUsageSecondPart.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\38-DelegatesUsageSecondPart\bin\Debug\38-DelegatesUsageSecondPart.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\38-DelegatesUsageSecondPart\obj\Debug\38-DelegatesUsageSecondPart.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\38-DelegatesUsageSecondPart\obj\Debug\38-DelegatesUsageSecondPart.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\38-DelegatesUsageSecondPart\obj\Debug\38-DelegatesUsageSecondPart.csprojResolveAssemblyReference.cache
