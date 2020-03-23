@@ -1,0 +1,6 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\43-ExceptionHandling\bin\Debug\43-ExceptionHandling.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\43-ExceptionHandling\bin\Debug\43-ExceptionHandling.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\43-ExceptionHandling\bin\Debug\43-ExceptionHandling.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\43-ExceptionHandling\obj\Debug\43-ExceptionHandling.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\43-ExceptionHandling\obj\Debug\43-ExceptionHandling.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\43-ExceptionHandling\obj\Debug\43-ExceptionHandling.csprojResolveAssemblyReference.cache
