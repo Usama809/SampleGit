@@ -1,0 +1,6 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\12-SwitchStatement\bin\Debug\12-SwitchStatement.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\12-SwitchStatement\bin\Debug\12-SwitchStatement.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\12-SwitchStatement\bin\Debug\12-SwitchStatement.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\12-SwitchStatement\obj\Debug\12-SwitchStatement.csprojResolveAssemblyReference.cache
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\12-SwitchStatement\obj\Debug\12-SwitchStatement.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\12-SwitchStatement\obj\Debug\12-SwitchStatement.pdb
