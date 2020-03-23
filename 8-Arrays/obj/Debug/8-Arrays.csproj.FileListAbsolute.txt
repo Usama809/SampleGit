@@ -1,0 +1,5 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\8-Arrays\bin\Debug\8-Arrays.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\8-Arrays\bin\Debug\8-Arrays.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\8-Arrays\bin\Debug\8-Arrays.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\8-Arrays\obj\Debug\8-Arrays.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\8-Arrays\obj\Debug\8-Arrays.pdb
