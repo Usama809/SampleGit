@@ -1,0 +1,6 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\17-MethodOfParameters\bin\Debug\17-MethodOfParameters.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\17-MethodOfParameters\bin\Debug\17-MethodOfParameters.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\17-MethodOfParameters\bin\Debug\17-MethodOfParameters.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\17-MethodOfParameters\obj\Debug\17-MethodOfParameters.csprojResolveAssemblyReference.cache
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\17-MethodOfParameters\obj\Debug\17-MethodOfParameters.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\17-MethodOfParameters\obj\Debug\17-MethodOfParameters.pdb
