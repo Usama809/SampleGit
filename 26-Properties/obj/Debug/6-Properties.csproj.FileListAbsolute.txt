@@ -1,0 +1,6 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\6-Properties\bin\Debug\6-Properties.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\6-Properties\obj\Debug\6-Properties.csprojResolveAssemblyReference.cache
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\6-Properties\bin\Debug\6-Properties.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\6-Properties\bin\Debug\6-Properties.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\6-Properties\obj\Debug\6-Properties.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\6-Properties\obj\Debug\6-Properties.pdb
