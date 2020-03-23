@@ -1,0 +1,6 @@
+c:\users\xami rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\3-DifferentTypeOfcSharp\bin\Debug\3-DifferentTypeOfcSharp.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\3-DifferentTypeOfcSharp\bin\Debug\3-DifferentTypeOfcSharp.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\3-DifferentTypeOfcSharp\bin\Debug\3-DifferentTypeOfcSharp.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\3-DifferentTypeOfcSharp\obj\Debug\3-DifferentTypeOfcSharp.csprojResolveAssemblyReference.cache
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\3-DifferentTypeOfcSharp\obj\Debug\3-DifferentTypeOfcSharp.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\3-DifferentTypeOfcSharp\obj\Debug\3-DifferentTypeOfcSharp.pdb
