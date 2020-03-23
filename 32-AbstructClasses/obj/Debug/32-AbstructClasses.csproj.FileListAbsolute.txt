@@ -1,0 +1,5 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\32-AbstructClasses\bin\Debug\32-AbstructClasses.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\32-AbstructClasses\bin\Debug\32-AbstructClasses.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\32-AbstructClasses\bin\Debug\32-AbstructClasses.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\32-AbstructClasses\obj\Debug\32-AbstructClasses.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\32-AbstructClasses\obj\Debug\32-AbstructClasses.pdb
