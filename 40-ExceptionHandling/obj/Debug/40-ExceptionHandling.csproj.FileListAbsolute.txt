@@ -1,0 +1,6 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\40-ExceptionHandling\bin\Debug\40-ExceptionHandling.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\40-ExceptionHandling\obj\Debug\40-ExceptionHandling.csprojResolveAssemblyReference.cache
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\40-ExceptionHandling\bin\Debug\40-ExceptionHandling.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\40-ExceptionHandling\bin\Debug\40-ExceptionHandling.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\40-ExceptionHandling\obj\Debug\40-ExceptionHandling.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\40-ExceptionHandling\obj\Debug\40-ExceptionHandling.pdb
