@@ -1,0 +1,6 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\39-MulticastDelegates\bin\Debug\39-MulticastDelegates.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\39-MulticastDelegates\bin\Debug\39-MulticastDelegates.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\39-MulticastDelegates\bin\Debug\39-MulticastDelegates.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\39-MulticastDelegates\obj\Debug\39-MulticastDelegates.csprojResolveAssemblyReference.cache
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\39-MulticastDelegates\obj\Debug\39-MulticastDelegates.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\39-MulticastDelegates\obj\Debug\39-MulticastDelegates.pdb
