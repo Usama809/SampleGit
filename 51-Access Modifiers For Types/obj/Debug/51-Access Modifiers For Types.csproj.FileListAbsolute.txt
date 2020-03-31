@@ -1,0 +1,5 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\51-Access Modifiers For Types\bin\Debug\51-Access Modifiers For Types.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\51-Access Modifiers For Types\bin\Debug\51-Access Modifiers For Types.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\51-Access Modifiers For Types\bin\Debug\51-Access Modifiers For Types.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\51-Access Modifiers For Types\obj\Debug\51-Access Modifiers For Types.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\51-Access Modifiers For Types\obj\Debug\51-Access Modifiers For Types.pdb
