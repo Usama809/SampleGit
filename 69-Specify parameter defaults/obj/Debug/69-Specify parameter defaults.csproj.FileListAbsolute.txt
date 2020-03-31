@@ -1,0 +1,5 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\69-Specify parameter defaults\bin\Debug\69-Specify parameter defaults.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\69-Specify parameter defaults\bin\Debug\69-Specify parameter defaults.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\69-Specify parameter defaults\bin\Debug\69-Specify parameter defaults.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\69-Specify parameter defaults\obj\Debug\69-Specify parameter defaults.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\69-Specify parameter defaults\obj\Debug\69-Specify parameter defaults.pdb
