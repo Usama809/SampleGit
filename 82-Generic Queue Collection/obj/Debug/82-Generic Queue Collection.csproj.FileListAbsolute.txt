@@ -1,0 +1,6 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\82-Generic Queue Collection\bin\Debug\82-Generic Queue Collection.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\82-Generic Queue Collection\bin\Debug\82-Generic Queue Collection.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\82-Generic Queue Collection\bin\Debug\82-Generic Queue Collection.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\82-Generic Queue Collection\obj\Debug\82-Generic Queue Collection.csprojResolveAssemblyReference.cache
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\82-Generic Queue Collection\obj\Debug\82-Generic Queue Collection.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\82-Generic Queue Collection\obj\Debug\82-Generic Queue Collection.pdb
