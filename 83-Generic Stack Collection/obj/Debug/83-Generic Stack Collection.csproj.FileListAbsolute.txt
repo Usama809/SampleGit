@@ -1,0 +1,6 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\83-Generic Stack Collection\bin\Debug\83-Generic Stack Collection.exe.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\83-Generic Stack Collection\bin\Debug\83-Generic Stack Collection.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\83-Generic Stack Collection\bin\Debug\83-Generic Stack Collection.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\83-Generic Stack Collection\obj\Debug\83-Generic Stack Collection.csprojResolveAssemblyReference.cache
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\83-Generic Stack Collection\obj\Debug\83-Generic Stack Collection.exe
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\IntroductionTo Csharp\83-Generic Stack Collection\obj\Debug\83-Generic Stack Collection.pdb
